@@ -1,0 +1,15 @@
+section {
+    font-family: 'Inter', sans-serif;
+}
+#all{
+    width: 1000px;
+}
+#button:nth-child(1){
+    margin-left: 125px;
+}
+tr:nth-child(even){
+    background-color: #e8edf0;
+}
+#x:hover{
+    color: red;
+}
