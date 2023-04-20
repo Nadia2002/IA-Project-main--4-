@@ -23,13 +23,13 @@ const Header = () => {
             </NavLink>
             <ul className="sub-ul">
               <li>
-                <a href="">Full Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">Crash Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">learn in 1h</a>
+                <a href=""></a>
               </li>
             </ul>
           </li>
@@ -40,22 +40,22 @@ const Header = () => {
             </NavLink>
             <ul className="sub-ul">
               <li>
-                <a href="">Full Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">CSS Examples</a>
+                <a href=""></a>
               </li>
               <li className="mini-projects">
-                <a href="">mini projects&nbsp; + </a>
+                <a href=""> </a>
                 <ul className="sub-sub-ul">
                   <li>
-                    <a href="">project 1</a>
+                    <a href=""></a>
                   </li>
                   <li>
-                    <a href="">project 2</a>
+                    <a href=""></a>
                   </li>
                   <li>
-                    <a href="">project 3</a>
+                    <a href=""></a>
                   </li>
                 </ul>
               </li>
@@ -67,7 +67,7 @@ const Header = () => {
             </NavLink>
             <ul className="sub-ul sub-of-js">
               <li>
-                <a href="">coming soon🔥</a>
+                <a href=""></a>
               </li>
             </ul>
           </li>
@@ -77,20 +77,20 @@ const Header = () => {
             </NavLink>
             <ul className="sub-ul">
               <li>
-                <a href="">Full Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">Crash Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">learn in 1h</a>
+                <a href=""></a>
               </li>
             </ul>
           </li>
         </ul>
       </header>
       <header style={{ backgroundColor: "red" }} className="show-when-mobile">
-        <h1>Courses 4 Arab</h1>
+        <h1>libarary system</h1>
         <label className="absolute" htmlFor="burger">
           <i className="fas fa-bars" />
         </label>
@@ -103,28 +103,28 @@ const Header = () => {
             <input id="html" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">Full Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">Crash Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">learn in 1h</a>
+                <a href=""></a>
               </li>
             </ul>
           </div>
           
           <div className="main-div">
             <label htmlFor="css">
-              CSS <i className="fas fa-plus" />
+               <i className="fas fa-plus" />
             </label>
             <input id="css" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">Full Course</a>
+                <a href=""></a>
               </li>
               <li>
-                <a href="">CSS Examples</a>
+                <a href=""></a>
               </li>
               <li>
                 <label className="mini-projects" htmlFor="mini">
@@ -133,10 +133,10 @@ const Header = () => {
                 <input id="mini" type="checkbox" />
                 <ul className="sub-sub-div">
                   <li>
-                    <a href="">project 1</a>
+                    <a href=""></a>
                   </li>
                   <li>
-                    <a href="">project 2</a>
+                    <a href=""></a>
                   </li>
                   <li>
                     <a href="">project 3</a>
@@ -147,12 +147,12 @@ const Header = () => {
           </div>
           <div className="main-div">
             <label htmlFor="js">
-              JavaScript <i className="fas fa-plus" />
+              <i className="fas fa-plus" />
             </label>
             <input id="js" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">coming soon🔥</a>
+                <a href=""></a>
               </li>
             </ul>
           </div>
